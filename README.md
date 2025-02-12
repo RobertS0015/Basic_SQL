@@ -1,1 +1,1 @@
-This is code for creating and tweaking a basic databse in SQL with a few tables.
+This is code for creating and tweaking a basic database in SQL with a few tables.
