@@ -1,4 +1,4 @@
--- Note: The following queries are based off the code in the sqlCreateTables.SQL file in this repository.
+-- Note: The following queries are based off the code in the sqlCreateTables.sql file in this repository.
 
 -- This query is used to retrieve the employee hierarchy.
 
